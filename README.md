@@ -1,4 +1,4 @@
-# 👩🏻‍💻Ícaro Eduardo
+# 👨🏻‍💻 Ícaro Eduardo
 
 **`Desenvolvedor FullStack`**
 
