@@ -31,9 +31,9 @@
 <br>
       
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=kamillyvm&rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&theme=radical&count_private=true">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=radical"/>
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=icaroesr&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=icaroesr&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icaroesr&theme=radical"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -86,10 +86,10 @@
 <div align="center">
   <p align="center">
       <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
         <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
         <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ⊹
       </samp>
   </p>
 </div>
