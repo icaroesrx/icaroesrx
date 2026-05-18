@@ -23,7 +23,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20icaroesr_%E2%9A%A1-000?style=for-the-badge&color=1e90ff
+  <img src="https://img.shields.io/badge/icaroesr-000000?style=for-the-badge
 " />
 </div>
       
