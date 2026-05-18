@@ -1,10 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=40e0d0"/>
 
 <br>
-
-<div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/eWVYdA0.png" />
-</div>
+   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:icaroeduardo034@gmail.com)
+   [![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/icaroesr/?next=%2F)
+   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/icaroesr)
 
 <div align="center">
   
@@ -77,9 +76,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:icaroeduardo034@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/icaroesr/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/icaroesr)
+ 
   
 </div>
 <br>
@@ -95,5 +92,8 @@
 </div>
 
 <br>
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/eWVYdA0.png" />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=40e0d0&section=footer"/>
