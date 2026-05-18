@@ -1,9 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=40e0d0"/>
 
 <br>
-   [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:icaroeduardo034@gmail.com)
-   [![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/icaroesr/?next=%2F)
-   [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/icaroesr)
+
+ <div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/eWVYdA0.png" />
+</div>
 
 <div align="center">
   
@@ -76,8 +77,21 @@
   <br>
   <br>
 
- 
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/km.medino/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
   
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+        <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
 </div>
 <br>
 
@@ -88,12 +102,10 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=icaroesr&style=flat-square&color=1e90ff" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=8f2c5b" /></p> 
 </div>
 
 <br>
-<div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/eWVYdA0.png" />
-</div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=40e0d0&section=footer"/>
