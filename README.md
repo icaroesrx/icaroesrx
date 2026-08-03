@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=ícaro eduardo"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=Ícaro%20Eduardo&section=header"/>
 # Hi there 👋
 
 ### 👨‍💻 About Me
