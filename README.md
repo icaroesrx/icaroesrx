@@ -1,41 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=40e0d0"/>
 
-<br>
-
- <div align="center">
-  <img align="center" height="150" src="https://i.imgur.com/eWVYdA0.png" />
-</div>
-
-<div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Ícaro Eduardo</b>
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00bfff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/icaroesr_⚡-black" />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=icaroesrx&rank_icon=github&show_icons=true&theme=radical&count_private=true">
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=icaroesrx&layout=compact&theme=radical&count_private=true">
- <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icaroesrx&theme=radical"/>
-
-</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
