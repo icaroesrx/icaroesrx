@@ -1,5 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=Ícaro%20Eduardo&section=header"/>
-# Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&color=gradient&text=Hi%20there%20👋"/>
+# I'm Ícaro
 
 ### 👨‍💻 About Me
 
