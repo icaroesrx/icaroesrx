@@ -1,5 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=40e0d0"/>
 
+# Hi there, I'm Ícaro Eduardo 👋
+
+### 👨‍💻 About Me
+
+I am a passionate **Front-End Developer** based in Spain, dedicated to building responsive, modern, and user-friendly web applications. Currently, I am expanding my technical skills through specialized education in Web Application Development (*Desarrollo de Aplicaciones Web*), building on my background in Systems Analysis and Development.
+
+I love transforming design concepts into clean, maintainable, and efficient code.
+
+### 🚀 Tech Stack & Tools
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
