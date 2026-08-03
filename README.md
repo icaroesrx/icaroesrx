@@ -1,5 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=ícaroesr"/>
-# Hi there, I'm Ícaro Eduardo 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=ícaro eduardo"/>
+# Hi there 👋
 
 ### 👨‍💻 About Me
 
@@ -78,8 +78,3 @@ I bridge the gap between design and functionality—crafting intuitive user inte
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=icaroesr&style=flat-square&color=8f2c5b" /></p> 
 </div>
-
-<br>
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=40e0d0&section=footer"/>
