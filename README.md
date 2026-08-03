@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=ícaroesr
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=ícaroesr"/>
 # Hi there, I'm Ícaro Eduardo 👋
 
 ### 👨‍💻 About Me
